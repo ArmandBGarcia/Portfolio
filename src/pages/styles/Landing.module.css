@@ -1,0 +1,66 @@
+.containerLanding {
+  /* background-image: url("../images/close-up-image-of-programer-working-at-his-desk-in-office.jpg"); */
+  /* background-image: url("../images/binary-2904980.jpg"); */
+  background-image: url("../../image/manhattan-3866140.jpg");
+  position: absolute;
+  opacity: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  opacity: 95%;
+}
+.textLanding {
+  margin-top: 10%;
+  text-align: center;
+  text-shadow: 0 0 20px #fff, 0 0 20px #fff, 0 0 20px #0049e6, 0 0 20px #0049e6,
+    0 0 20px #0049e6, 0 0 30px #0049e6, 0 0 30px #0049e6;
+  font-size: 23px;
+  color: rgb(0, 0, 0);
+  /* color: rgb(238, 238, 238); */
+  font-style: groove;
+  position: relative;
+  font-size: 60px;
+  /* background: #ad5389; */
+  /* background: -webkit-linear-gradient(
+    to right,
+    #3c1053,
+    #ad5389
+  );  */
+  /* background: linear-gradient(to right, #3c1053, #ad5389); */
+}
+
+.btnLanding {
+  cursor: pointer;
+  background: #ad5389; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #1c14ac,
+    #569edc
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1c14ac, #569edc);
+  border-radius: 15px;
+
+  color: #ffffff;
+  font-size: 23px;
+  padding: 9px 23px 9px 23px;
+  text-decoration: none;
+  /* position: relative; */
+  margin-top: 5%;
+  margin-left: 40%;
+  height: 100px;
+  width: 200px;
+}
+
+.btnLanding:hover {
+  background: #569edc; /* fallback for old browsers */
+  text-decoration: none;
+  color: #050505;
+
+  padding: 9px 23px 9px 23px;
+  /* font-size: 3rem; */
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #569edc, 0 0 40px #569edc,
+    0 0 50px #569edc, 0 0 60px #569edc, 0 0 70px #569edc;
+}
