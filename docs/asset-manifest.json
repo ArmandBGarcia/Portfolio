@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af4ac7b1.css",
+    "main.js": "/static/js/main.d77a4e75.js",
+    "static/media/WeatherApp.mp4": "/static/media/WeatherApp.72f135679157aa0f19cf.mp4",
+    "static/media/HeroesApp.mp4": "/static/media/HeroesApp.cf5e5c9fe13bab1276da.mp4",
+    "static/media/blackjack.mp4": "/static/media/blackjack.2c0e5e69619e5228d04c.mp4",
+    "static/media/manhattan-3866140.jpg": "/static/media/manhattan-3866140.695873669609589b2f9b.jpg",
+    "static/media/armando.jpg": "/static/media/armando.6791c35e6d9898411199.jpg",
+    "static/media/Curriculum Vitae(english).pdf": "/static/media/Curriculum Vitae(english).733d8c8c6f96e08af6ea.pdf",
+    "static/media/redux.png": "/static/media/redux.f4846c09ff535ca20c9b.png",
+    "static/media/react.png": "/static/media/react.74277f9edacdd8877cfc.png",
+    "static/media/express.png": "/static/media/express.f722b9bf98084cf0ec51.png",
+    "static/media/Postgre.png": "/static/media/Postgre.60d5758ab849bd446f1c.png",
+    "static/media/sql.png": "/static/media/sql.0f411f892b336dad780b.png",
+    "static/media/html5_logo.png": "/static/media/html5_logo.0ec7f74b0bea28e79aaf.png",
+    "static/media/nodejs.png": "/static/media/nodejs.9bb8d52b8f7776416456.png",
+    "static/media/CSS3.png": "/static/media/CSS3.4a513626f10b8419c668.png",
+    "index.html": "/index.html",
+    "main.af4ac7b1.css.map": "/static/css/main.af4ac7b1.css.map",
+    "main.d77a4e75.js.map": "/static/js/main.d77a4e75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af4ac7b1.css",
+    "static/js/main.d77a4e75.js"
+  ]
+}
