@@ -11,9 +11,9 @@ export const Navbar = () => {
         <h3>Armando B. Garcia</h3>
       </div>
       <nav className={styles.links}>
-        {/* <Link to="/">Landing Page</Link>
+        <Link to="/">Landing Page</Link>
         <Link to="/home">overview</Link>
-        <Link to="/contact">contact</Link> */}
+        <Link to="/contact">contact</Link>
       </nav>
     </div>
   );
