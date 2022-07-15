@@ -1,5 +1,6 @@
 .container {
-  background-color: rgb(247, 247, 247);
+  /* background-color: rgb(247, 247, 247); */
+  background-color: rgb(29, 31, 32);
   /* background-color: #78aefa; */
   /* text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #569edc, 0 0 40px #569edc,
     0 0 50px #569edc, 0 0 60px #569edc, 0 0 70px #569edc; */
@@ -28,6 +29,12 @@
 
 .title h3 {
   font-family: sans-serif;
+}
+
+a img {
+  display: flex;
+  height: 50px;
+  margin-top: 50px;
 }
 
 img {

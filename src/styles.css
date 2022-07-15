@@ -5,7 +5,9 @@
 }
 
 body {
-  color: #444;
+  /* color: #444; */
+  color: rgb(189, 183, 175);
+  background-color: rgb(19, 21, 22);
   font-family: sans-serif;
   margin: 0 auto;
   width: 1100px;

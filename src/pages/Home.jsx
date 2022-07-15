@@ -38,9 +38,18 @@ export const Home = () => {
             <br />
             <p>
               Well, I just started studying programming seven months ago in a
-              bootCamp colled <b>soyHenry</b>, that is an online intensive
-              course from Argentina and also studying diferets courses in the
-              plataform of Udemy
+              bootCamp colled{" "}
+              <b>
+                <a
+                  href="https://www.soyhenry.com/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  soyHenry
+                </a>
+              </b>
+              , that is an online intensive course from Argentina and also
+              studying diferets courses in the plataform of Udemy
             </p>
             <br />
             <p>
@@ -59,9 +68,19 @@ export const Home = () => {
             <br />
             <p>
               I'm also studying a bachelor's degree on Business management in
-              the <b>Instituto Tecnologico Superior P'urhepecha</b> and actually
-              I just passed to the <b>8th semester</b>, I have one year left to
-              graduate.
+              the{" "}
+              <b>
+                <a
+                  href="https://its-purhepecha.edu.mx/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  {" "}
+                  Instituto Tecnologico Superior P'urhepecha
+                </a>
+              </b>{" "}
+              and actually I just passed to the <b>8th semester</b>, I have one
+              year left to graduate.
             </p>
 
             <br />
@@ -81,8 +100,9 @@ export const Home = () => {
             </p>
             <br />
             <p className={styles.lastP}>
-              PD. All my projects have been deployed on github pages and this
-              portfolio web page was made with HTML, CSS, JS and React.
+              PD. All my projects have been deployed on vercel.com and some
+              other on Github pages. This portfolio web page was made with React
+              is a SPA.
             </p>
           </article>
         </div>
